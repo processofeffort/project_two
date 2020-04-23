@@ -8,10 +8,10 @@
 ![首页](https://github.com/processofeffort/project_two/blob/master/首页.png)
 
 
-版块界面：Ajax数据请求渲染界面，Ajax异步查询所属分类，富文本插件进行文本编辑
+发帖界面：Ajax数据请求渲染界面，Ajax异步查询所属分类，富文本插件进行文本编辑
 
 
-![版块](https://github.com/processofeffort/project_two/blob/master/详细界面.png)
+![发帖](https://github.com/processofeffort/project_two/blob/master/发帖.png)
 
 
 搜索界面：Ajax异步查询
