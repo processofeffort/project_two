@@ -70,7 +70,7 @@
 ![管理员中心-公告增删查改](https://github.com/processofeffort/project_two/blob/master/管理员中心-公告增删查改.png)
 
 
-![管理员用户全记录](https://github.com/processofeffort/project_two/blob/master/管理员用户全记录.png)
+![管理员-用户全记录](https://github.com/processofeffort/project_two/blob/master/管理员-用户全记录.png)
 
 ![管理员-帖子全记录](https://github.com/processofeffort/project_two/blob/master/管理员-帖子全记录.png)
 
