@@ -42,3 +42,6 @@
 
 
 ![详细](https://github.com/processofeffort/project_two/blob/master/详细界面（回复，举报，收藏，点赞）.png)
+![举报-回复](https://github.com/processofeffort/project_two/blob/master/举报-回复.png)
+![收藏](https://github.com/processofeffort/project_two/blob/master/收藏.png)
+![点赞-踩](https://github.com/processofeffort/project_two/blob/master/点赞-踩.png)
