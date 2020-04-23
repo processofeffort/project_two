@@ -37,3 +37,8 @@
 
 ![找回密码](https://github.com/processofeffort/project_two/blob/master/找回密码.png)
 
+
+详细界面：（进行收藏，点赞，举报，回复等功能）
+
+
+![详细](https://github.com/processofeffort/project_two/blob/master/详细界面（回复，举报，收藏，点赞）.png)
